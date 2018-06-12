@@ -15,3 +15,10 @@ Sheng.SQLite.Plus 是一个对直接使用 ADO.NET 方式操作 SQLite 数据库
 
 更好的排版和详细的使用说明见这里：
 http://blog.shengxunwei.com/Home/Post/5364bf7e-07a8-4daf-b5bd-9bb4645bb739
+
+
+曹旭升（sheng.c）  
+QQ:279060597  
+Email：cao.silhouette@msn.com  
+@南京 
+
