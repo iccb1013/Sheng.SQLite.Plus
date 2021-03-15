@@ -2,6 +2,8 @@
 
 请访问原版代码库，以获得最新更新: https://github.com/iccb1013/Sheng.SQLite.Plus
 
+MIT 协议开源，可以随意使用，但是需在源代码和产品关于画面保留版权声明和我的网站链接，谢谢。
+
 Sheng.SQLite.Plus 是一个对直接使用 ADO.NET 方式操作 SQLite 数据库的一个增强组件，它的操作方式介于 Entity Framework 和 ADO.NET 之间，是用于 SQLite 的高度自由和高开发效率的数据库访问层组件。
 
 + 支持所有 ADO.NET 原生操作
